@@ -1,0 +1,46 @@
+path {
+    fill: #A7C8D9;
+    stroke: #FFFFFF;
+    stroke-linecap: square;
+    stroke-linejoin: bevel;
+    stroke-miterlimit: 10;
+    transition: all 1s;
+    -webkit-transition: all 1s;
+    opacity: 1;
+}
+
+path:hover {
+    fill: gold;
+    cursor: pointer;
+    transition: all 1s;
+    -webkit-transition: all 1s;
+    opacity: 1;
+}
+
+.st5 {
+    display: none;
+}
+
+.st6 {
+    /* display: inline; */
+    display: block;
+}
+
+#map {
+    margin: 0px auto;
+    width: 200px;
+}
+
+.containt {
+    text-align: center;
+    width: 70%;
+    margin: 0px auto;
+}
+
+.intro {
+    font-size: 1.4em;
+}
+
+img {
+    width: 95%;
+}
